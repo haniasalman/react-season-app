@@ -3,7 +3,7 @@ import './index.css'
 //object is created here
 const seasonConfig = {
   summer: {
-    text: "Lets go to the Beach and play with the family",
+    text: "Lets go to the Beach and do nothing now",
     icon: "sun",
   },
   winter: {
