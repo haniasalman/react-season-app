@@ -15,6 +15,10 @@ const seasonConfig = {
     icon: "spring",
   },
   
+  autumn: {
+    text: "It's Dark and sad",
+    icon: "autumn",
+  }
 };
 const getSeason = (lat, month) => {
   if (month > 2 && month < 9) {
