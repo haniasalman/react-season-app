@@ -3,13 +3,22 @@ import './index.css'
 //object is created here
 const seasonConfig = {
   summer: {
-    text: "Lets go to the Beach and play with the family",
+    text: "Lets go to the Beach and do nothing now",
     icon: "sun",
   },
   winter: {
     text: "It's Chillyy",
     icon: "snowflake",
   },
+  spring: {
+    text: "It's cherry blossom",
+    icon: "spring",
+  },
+  
+  autumn: {
+    text: "It's Dark and sad",
+    icon: "autumn",
+  }
 };
 const getSeason = (lat, month) => {
   if (month > 2 && month < 9) {
