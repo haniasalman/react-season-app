@@ -1,1 +1,2 @@
-hello i am a dummy text added for fetching and pulling
+hello i am a dummy text added for rebase and merge
+I have made a change in main branch
